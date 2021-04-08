@@ -13,4 +13,4 @@ In order to simulate this scenario, our team decided to handle all instances and
 ## Resources:
 * [Statement of Work and SOPS](https://docs.google.com/document/d/1mZdO2vRkZy8hxwWiL_pVDoiAzJsEjf3Y8kdbJY6s8OU/edit?usp=sharing)
 * [AWS Network Configuration and S3 to EC2 OVA Import](https://docs.google.com/document/d/1bdQWQwTo7sG_6oQg0SHU88PjvG1E25GkAkqQB5RNbO0/edit#heading=h.v4hmhhyopoai)
-* [Linux File Server Setup and Backup] (https://docs.google.com/document/d/1gImYM5J1oS3ANc2rCKISZBPM2WuyEqOXrERz58wsvuI/)
+* [Linux File Server Setup and Backup](https://docs.google.com/document/d/1gImYM5J1oS3ANc2rCKISZBPM2WuyEqOXrERz58wsvuI/)
